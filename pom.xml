@@ -4,11 +4,11 @@
 
     <groupId>groupId</groupId>
     <artifactId>test_deploy</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.4</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/Volodymyr-Lobachov/test_deploy.git</developerConnection>
-        <tag>test_deploy-0.3</tag>
+        <tag>test_deploy-0.4</tag>
     </scm>
 
     <distributionManagement>
