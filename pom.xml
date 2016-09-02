@@ -4,7 +4,7 @@
 
     <groupId>groupId</groupId>
     <artifactId>test_deploy</artifactId>
-    <version>0.6-SNAPSHOT</version>
+    <version>0.6.1-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/Volodymyr-Lobachov/test_deploy.git</developerConnection>
