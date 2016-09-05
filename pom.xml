@@ -17,7 +17,9 @@
 
     </dependencies>
     <scm>
+        <connection>scm:git:git@github.com:Volodymyr-Lobachov/test_deploy.git</connection>
         <developerConnection>scm:git:git@github.com:Volodymyr-Lobachov/test_deploy.git</developerConnection>
+        <url>git@github.com:Volodymyr-Lobachov/test_deploy.git</url>
         <tag>HEAD</tag>
     </scm>
 
