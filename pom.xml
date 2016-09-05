@@ -29,7 +29,7 @@
             <url>http://localhost:9000/nexus/content/repositories/central-release-test</url>
         </repository>
     </distributionManagement>
-
+ 
     <build>
         <plugins>
             <plugin>
