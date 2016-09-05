@@ -4,7 +4,7 @@
 
     <groupId>groupId</groupId>
     <artifactId>test_deploy</artifactId>
-    <version>0.6.5-SNAPSHOT</version>
+    <version>0.6.5</version>
 
 
     <dependencies>
@@ -20,7 +20,7 @@
         <connection>scm:git:git@github.com:Volodymyr-Lobachov/test_deploy.git</connection>
         <developerConnection>scm:git:git@github.com:Volodymyr-Lobachov/test_deploy.git</developerConnection>
         <url>git@github.com:Volodymyr-Lobachov/test_deploy.git</url>
-        <tag>HEAD</tag>
+        <tag>test_deploy-0.6.5</tag>
     </scm>
 
     <distributionManagement>
