@@ -22,7 +22,7 @@
         <!--<url>git@github.com:Volodymyr-Lobachov/test_deploy.git</url>-->
         <tag>HEAD</tag>
     </scm>
-
+ 
     <distributionManagement>
         <repository>
             <id>central-release-test</id>
