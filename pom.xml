@@ -16,7 +16,9 @@
         </dependency>
 
     </dependencies>
-
+    <properties>
+        <project.scm.id>my-scm-server</project.scm.id>
+    </properties>
     <scm>
         <developerConnection>scm:git:https://github.com/Volodymyr-Lobachov/test_deploy.git</developerConnection>
         <tag>test_deploy-0.4</tag>
