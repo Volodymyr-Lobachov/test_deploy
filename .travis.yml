@@ -1,8 +1,4 @@
 language: java
-deploy:
-  provider: s3
-  access_key_id: $ACCESS_KEY
-  secret_access_key: $SECRET_KEY
-  bucket: "project-deploy-bucket"
 addons:
   artifacts: true
+    s3_region: "us-west-2"
